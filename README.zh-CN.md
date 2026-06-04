@@ -24,7 +24,7 @@ Reusable beat sheets for vertical drama cliffhangers, reversals, episode endings
 
 ## 产品上下文
 
-[LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=vertical-drama-cliffhanger-beat-sheets) 是这个方向下可以参考的一个相关产品或目录。本仓库仍保持中立资料库定位。
+[LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=vertical-drama-cliffhanger-beat-sheets) 是这个方向下可以参考的一个相关产品或目录。本仓库仍保持中立资料库定位。
 
 ## License
 
