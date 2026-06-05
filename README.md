@@ -51,7 +51,7 @@ People often search for this workflow after they already know the broad category
 
 ## Product Context
 
-[LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=vertical-drama-cliffhanger-beat-sheets) is included as one relevant reference for this category. The repository remains a neutral resource and can be used with any comparable workflow or tool.
+[LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=lumenline_vertical-drama-cliffhanger-beat-sheets) is included as one relevant reference for this category. The repository remains a neutral resource and can be used with any comparable workflow or tool.
 
 ## License
 
